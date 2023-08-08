@@ -1,7 +1,7 @@
 # Utility-Cost-Calculator
 **Automated Calculator for Employee and Customer Use** 
 
-This repository showcases an automated calculator tool designed for utility collections.This repository showcases an automated calculator tool designed to streamline and enhance accuracy in utility calculations for both employees and customers. Built using Excel and VBA, this calculator provides an efficient solution for complex calculations derived from city ordinances and regulations. By automating the calculation process, we aimed to improve efficiency, reduce errors, and ensure consistency in utility-related computations.
+This repository showcases an automated calculator tool I designed to streamline and enhance accuracy in utility calculations for both employees and customers. Built using Excel and VBA, this calculator provides an efficient solution for complex calculations derived from city ordinances and regulations. By automating the calculation process, we aimed to improve efficiency, reduce errors, and ensure consistency in utility-related computations.
 
 **Features**
 
